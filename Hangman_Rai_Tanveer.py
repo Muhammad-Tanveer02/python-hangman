@@ -1,10 +1,7 @@
 '''
 File name: Rai_Tanveer_Hangman.py
-Authors: Lokansh Rai and Muhammad Tanveer
-Instructor: Mr. Berardi
-ICS 3U1 - Culminating Project
+Authors: Muhammad Tanveer and Lokansh Rai
 Description: Hangman Game, with Hint feature, Picture feature, and Guess the Word Feature. 13 Categories, 236 words.
-Date due: 01/23/2019
 Python Version: 3.7.0
 IDLE Version: 3.7.0
 EasyGui Version: 0.97
